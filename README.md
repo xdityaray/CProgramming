@@ -16,17 +16,29 @@ This repository is ideal for anyone learning the C language, practicing coding, 
 ## Folder Structure
 
 (1) BASICS & INPUT OUTPUT
+
 (2) OPERATORS & DATA TYPES
+
 (3) CONDITIONAL STATEMENTS
+
 (4) LOOPS (BASICS)
+
 (5) LOOPS (ADVANCED)
+
 (6) PATTERN PRINTING
+
 (7) FUNCTIONS
+
 (8) ARRAYS (BASICS)
+
 (9) ARRAYS (INTERMEDIATE)
+
 (10) ARRAYS (ADVANCED)
+
 (11) 2D ARRAYS & MATRICES
+
 (12) STRINGS
+
 (13) RECURSION (ADVANCED)
 
 Each folder includes several C language programs related to that topic, with clear code, comments, and logical structure.
